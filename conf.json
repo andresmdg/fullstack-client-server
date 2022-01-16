@@ -1,0 +1,9 @@
+{
+	"maxplayers" : 100,
+	"name" : "GTAV:Life 2022 server", 
+	"gamemode" : "roleplay", 
+	"stream-distance" : 500.0,
+	"announce" : false,
+	"csharp" : "disabled",
+	"port": 20502
+}
